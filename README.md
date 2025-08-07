@@ -8,6 +8,21 @@
 [![Machine Learning](https://img.shields.io/badge/ML-95%25%20Accuracy-brightgreen.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
 [![Real Data](https://img.shields.io/badge/Data-Government%20Verified-red.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
 
+
+## 🚀 **Live Interactive Dashboards**
+
+<div align="center">
+
+### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/enhanced_storytelling_dashboard.html)
+
+### [🎯 **View 3D Visualizations** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/storytelling_3d_dashboard.html)
+
+### [📈 **Advanced 3D Analysis** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/advanced_3d_dashboard.html)
+
+</div>
+
+---
+
 ## 🚀 **Live Demo**
 
 **[📊 Interactive Dashboard](https://rosalinatorres.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)** - 3D visualizations, animations, storytelling
