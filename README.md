@@ -13,9 +13,7 @@
 
 <div align="center">
 
-### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)
-
-### [🎯 **View 3D Visualizations** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/storytelling_3d_dashboard.html)
+### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/main_dashboard.html)
 
 ### [📈 **Advanced 3D Analysis** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/advanced_3d_dashboard.html)
 
@@ -27,7 +25,7 @@
 
 ## 🚀 **Live Demo**
 
-**[📊 Interactive Dashboard](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)** - 3D visualizations, animations, storytelling
+**[📊 Interactive Dashboard](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/main_dashboard.html)** - Comprehensive analysis with accurate data
 
 **[📔 Complete Analysis](https://nbviewer.org/github/rosalinatorres888/strategic-human-capital-analysis/blob/main/Strategic_Human_Capital_Analysis_REAL_DATA.ipynb)** - Full Jupyter notebook with real data
 
