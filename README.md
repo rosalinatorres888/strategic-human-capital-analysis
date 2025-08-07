@@ -248,6 +248,18 @@ All analysis based on official sources with direct links provided:
 
 ## 🎨 **Visualization Gallery**
 
+### **🗺️ Interactive Geographic Analysis**
+
+<div align="center">
+
+#### [**📊 LIVE INTERACTIVE MAP** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/maps/interactive_dashboard_choropleth.html)
+
+*Click above to explore the full interactive choropleth map with hover details and zoom capabilities*
+
+</div>
+
+![Massachusetts Excellence Model](strategic_human_capital_comprehensive_analysis.png)
+
 ### **Dashboard Screenshots**
 
 <details>
