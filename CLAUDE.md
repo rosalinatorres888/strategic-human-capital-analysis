@@ -1,7 +1,7 @@
 # 📊 Strategic Human Capital Investment Analysis - Complete Project Documentation
 
 *Portfolio Project: Evidence-Based Policy Analysis Using Verified Government Data*  
-**Author: Data Analytics Engineering Student**  
+**Author: Rosalina Torres**  
 **Status: COMPLETE & PORTFOLIO-READY** ✅
 
 ---
