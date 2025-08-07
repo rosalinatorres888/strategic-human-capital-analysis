@@ -3,21 +3,23 @@
 > **Evidence-Based Policy Analysis Using Real Government Data**  
 > *Demonstrating Massachusetts Excellence Model for National Implementation*
 
-[![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-blue.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
-[![Data Science](https://img.shields.io/badge/Field-Data%20Science-green.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
-[![Machine Learning](https://img.shields.io/badge/ML-95%25%20Accuracy-brightgreen.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
-[![Real Data](https://img.shields.io/badge/Data-Government%20Verified-red.svg)](https://github.com/rosalinatorres/strategic-human-capital-analysis)
+[![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-blue.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
+[![Data Science](https://img.shields.io/badge/Field-Data%20Science-green.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
+[![Machine Learning](https://img.shields.io/badge/ML-95%25%20Accuracy-brightgreen.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
+[![Real Data](https://img.shields.io/badge/Data-Government%20Verified-red.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
 
 
 ## 🚀 **Live Interactive Dashboards**
 
 <div align="center">
 
-### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/enhanced_storytelling_dashboard.html)
+### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)
 
-### [🎯 **View 3D Visualizations** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/storytelling_3d_dashboard.html)
+### [🎯 **View 3D Visualizations** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/storytelling_3d_dashboard.html)
 
-### [📈 **Advanced 3D Analysis** →](https://rosalinatorres888.github.io/education-roi-blueprint/web/advanced_3d_dashboard.html)
+### [📈 **Advanced 3D Analysis** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/advanced_3d_dashboard.html)
+
+### [🗺️ **Geographic Analysis** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/maps/interactive_dashboard_choropleth.html)
 
 </div>
 
@@ -25,9 +27,9 @@
 
 ## 🚀 **Live Demo**
 
-**[📊 Interactive Dashboard](https://rosalinatorres.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)** - 3D visualizations, animations, storytelling
+**[📊 Interactive Dashboard](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/enhanced_storytelling_dashboard.html)** - 3D visualizations, animations, storytelling
 
-**[📔 Complete Analysis](https://nbviewer.org/github/rosalinatorres/strategic-human-capital-analysis/blob/main/Strategic_Human_Capital_Analysis_REAL_DATA.ipynb)** - Full Jupyter notebook with real data
+**[📔 Complete Analysis](https://nbviewer.org/github/rosalinatorres888/strategic-human-capital-analysis/blob/main/Strategic_Human_Capital_Analysis_REAL_DATA.ipynb)** - Full Jupyter notebook with real data
 
 ---
 
