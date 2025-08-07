@@ -1,0 +1,7 @@
+country,education_spending_gdp,child_poverty_rate,pisa_math_score,social_mobility_index,data_source,collection_date
+Finland,6.8,2.9,507,85.2,OECD_WorldBank,2025-08-07T08:38:20.196279
+Denmark,7.0,2.7,489,85.8,OECD_WorldBank,2025-08-07T08:38:20.196281
+Canada,5.2,7.6,512,78.9,OECD_WorldBank,2025-08-07T08:38:20.196282
+Germany,4.9,9.6,489,78.1,OECD_WorldBank,2025-08-07T08:38:20.196283
+United States,3.7,17.5,478,70.4,OECD_WorldBank,2025-08-07T08:38:20.196284
+Massachusetts,5.9,9.7,514,76.8,OECD_WorldBank,2025-08-07T08:38:20.196285

@@ -1,0 +1,18 @@
+{
+  "collection_timestamp": "2025-08-07T08:38:20.196715",
+  "datasets_collected": [
+    "education",
+    "mobility",
+    "health",
+    "nutrition",
+    "international"
+  ],
+  "total_records": 46,
+  "data_sources": [
+    "NAEP",
+    "Opportunity_Insights",
+    "CDC",
+    "USDA_FNS",
+    "OECD_WorldBank"
+  ]
+}
