@@ -9,19 +9,68 @@
 [![Real Data](https://img.shields.io/badge/Data-Government%20Verified-red.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
 
 
-## 🚀 **Live Interactive Dashboards**
+# 🚀 **Live Interactive Dashboards**
 
 <div align="center">
 
 ### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/main_dashboard.html)
 
-### [📈 **Advanced 3D Analysis** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/advanced_3d_dashboard.html)
-
-### [🗺️ **Geographic Analysis** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/maps/interactive_dashboard_choropleth.html)
 
 </div>
 
 ---
+
+### **🗺️ Interactive Geographic Analysis**
+
+<div align="center">
+
+#### [**📊 LIVE INTERACTIVE MAP** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/maps/interactive_dashboard_choropleth.html)
+
+*Click above to explore the full interactive choropleth map with hover details and zoom capabilities*
+
+</div>
+
+![Massachusetts Excellence Model](strategic_human_capital_comprehensive_analysis.png)
+
+### **Dashboard Screenshots**
+
+<details>
+<summary><b>🎯 Strategic Policy Dashboard</b></summary>
+
+![Dashboard Overview](strategic_human_capital_comprehensive_analysis.png)
+
+**Features:**
+- Interactive 3D scatter plots
+- Geographic choropleth maps  
+- Animated timeline projections
+- Correlation heatmaps
+- Professional storytelling design
+</details>
+
+<details>
+<summary><b>📊 3D Policy Space Analysis</b></summary>
+
+**Massachusetts Excellence in Multi-Dimensional Space:**
+- X-axis: Education Performance (NAEP scores)
+- Y-axis: Health Access Index (uninsured rates)  
+- Z-axis: Economic Mobility (opportunity index)
+- Color: Human Capital ROI multiplier
+- Size: Policy innovation score
+</details>
+
+<details>
+<summary><b>🗺️ National Crisis Distribution</b></summary>
+
+**Geographic Analysis:**
+- State-by-state crisis indices
+- Child poverty rate overlays
+- Performance gap identification
+- Regional pattern analysis
+</details>
+
+
+
+
 
 ## 🚀 **Live Demo**
 
