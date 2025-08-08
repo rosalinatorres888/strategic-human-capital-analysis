@@ -27,7 +27,7 @@
 
 **[📊 Interactive Dashboard](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/main_dashboard.html)** - Comprehensive analysis with accurate data
 
-**[📔 Complete Analysis](https://nbviewer.org/github/rosalinatorres888/strategic-human-capital-analysis/blob/main/Strategic_Human_Capital_Analysis_REAL_DATA.ipynb)** - Full Jupyter notebook with real data
+
 
 ---
 
