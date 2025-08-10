@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/strategic-human-capital-analysis/web/main_dashboard.html)
+### [📊 **LAUNCH MAIN DASHBOARD** →]([https://rosalinatorres888.github.io/ma-education-policy-analysis/])
 
 
 </div>
