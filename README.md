@@ -10,11 +10,9 @@
 
 
 # 🚀 **Live Interactive Dashboards**
-
 <div align="center">
 
-### [📊 **LAUNCH MAIN DASHBOARD** →]([https://rosalinatorres888.github.io/ma-education-policy-analysis/])
-
+### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/ma-education-policy-analysis/)
 
 </div>
 
