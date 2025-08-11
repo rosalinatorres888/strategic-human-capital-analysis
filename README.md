@@ -1,24 +1,21 @@
-# 🎯 Machine Learning: Data-Driven Policy Analysis Research 
 
-> **Evidence-Based Policy Analysis Using Real Government Data**  
-> *Demonstrating Massachusetts Excellence Model for National Implementation*
+<!-- Hero Section -->
+<p align="center">
+  <img src="docs/banner.png" alt="Massachusetts Education Policy Analysis" width="100%">
+</p>
 
-[![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-blue.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
-[![Data Science](https://img.shields.io/badge/Field-Data%20Science-green.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
-[![Machine Learning](https://img.shields.io/badge/ML-95%25%20Accuracy-brightgreen.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
-[![Real Data](https://img.shields.io/badge/Data-Government%20Verified-red.svg)](https://github.com/rosalinatorres888/strategic-human-capital-analysis)
+<h1 align="center">📊 Evidence-Based Policy Analysis Using Real Government Data</h1>
+<h3 align="center">Data Storytelling • Policy Insight • Interactive Visualization</h3>
 
-
-# 🚀 **Live Interactive Dashboards**
-<div align="center">
-
-### [📊 **LAUNCH MAIN DASHBOARD** →](https://rosalinatorres888.github.io/ma-education-policy-analysis/)
-
-</div>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-brightgreen?logo=plotly" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img src="https://img.shields.io/github/last-commit/rosalinatorres888/ma-education-policy-analysis?color=purple" />
+</p>
 
 ---
+
 
 ## 🎯 **Project Overview**
 
@@ -459,4 +456,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Last Updated: January 2025*  
-*Project Type: Portfolio Demonstration - Policy Research & Data Science*
+*Project Type: Portfolio Demonstration - Policy Research & Data Science*<img width="1288" height="17186" alt="image" src="https://github.com/user-attachments/assets/e2893066-0780-4de6-a04b-ac44dbb31bdb" />
+
